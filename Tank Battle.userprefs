@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Battle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Panel Codes/RecordPanel.cs" Line="113" Column="13" />
+      <File FileName="Assets/Scripts/Panel Codes/TabPanel.cs" Line="34" Column="21" />
+      <File FileName="Assets/Scripts/Panel Codes/ResultPanel.cs" Line="67" Column="21" />
+      <File FileName="Assets/Scripts/Battle.cs" Line="109" Column="25" />
+      <File FileName="Assets/Scripts/CameraMark.cs" Line="56" Column="35" />
+      <File FileName="Assets/Scripts/TankBeheavior.cs" Line="124" Column="17" />
+      <File FileName="Assets/Scripts/Panel Codes/PanelBase.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TimeDestruct.cs" Line="22" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
